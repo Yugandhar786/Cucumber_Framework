@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.125" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Launch the Browser" name="Title of your scenario" time="0.007">
+<system-out><![CDATA[
+Given user is on Login page.................................................passed
+When user enters User name and password.....................................passed
+And Clicks login button.....................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
